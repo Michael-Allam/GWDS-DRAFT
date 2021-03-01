@@ -135,7 +135,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #19a879;
+		color: #ffffff;
 		font-weight: 800;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -3204,7 +3204,7 @@ input, select, textarea {
 	}
 
 		.wrapper.style2 {
-			background: #c00020;
+			background: #25b17b;
 		}
 
 			.wrapper.style2 input[type="text"]:focus,
@@ -3474,8 +3474,8 @@ input, select, textarea {
 		}
 
 		#banner:after {
-			background-image: -moz-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
-			background-image: -webkit-linear-gradient(top, rgba(255, 218, 159, 0.952), rgba(80, 146, 119, 0.95)), url("images/overlay.png");;
+			background-image: -moz-linear-gradient(top, rgba(214, 187, 65, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
+			background-image: -webkit-linear-gradient(top, rgba(231, 185, 84, 0.952), rgba(11, 53, 35, 0.95)), url("images/overlay.png");;
 			background-image: -ms-linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
 			background-image: linear-gradient(top, rgba(23, 24, 32, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
 			content: '';
