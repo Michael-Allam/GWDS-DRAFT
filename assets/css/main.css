@@ -3507,6 +3507,7 @@ input, select, textarea {
 				#banner .content header h2 {
 					font-size: 2.5em;
 					margin: 0;
+					color: aquamarine;
 				}
 
 				#banner .content header p {
@@ -3646,7 +3647,6 @@ input, select, textarea {
 			}
 
 		/* Footer */
-
 			#footer {
 				padding: 4.5em 0;
 			}
@@ -3852,7 +3852,6 @@ input, select, textarea {
 				}
 
 					#banner .content header h2 {
-					color: darkgreen;
 						font-size: 1.5em;
 					}
 
