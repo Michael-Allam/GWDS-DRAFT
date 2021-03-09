@@ -3476,7 +3476,7 @@ input, select, textarea {
 		#banner:after {
 
 			background-image: -moz-linear-gradient(top, rgba(226, 203, 103, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
-			background-image: -webkit-linear-gradient(top, rgba(231, 187, 93, 0.952), rgba(112, 173, 147, 0.95)), url("images/overlay.png");;
+			background-image: -webkit-linear-gradient(top, rgba(252, 200, 88, 0.952), rgba(252, 200, 88, 0.952)), url("images/overlay.png");;
 			background-image: -ms-linear-gradient(top, rgba(100, 114, 218, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
 			background-image: linear-gradient(top, rgba(236, 9, 9, 0.95), rgba(23, 24, 32, 0.95)), url("images/overlay.png");;
 			content: '';
@@ -3507,7 +3507,7 @@ input, select, textarea {
 				#banner .content header h2 {
 					font-size: 2.5em;
 					margin: 0;
-					color: aquamarine;
+					color: rgb(24, 94, 70);
 				}
 
 				#banner .content header p {
